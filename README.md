@@ -11,3 +11,5 @@ To build an app with Unity, you first need to create a project. This project is 
   5. Enter a location to save your project
   6. Ensure the 3D toggle is selected
   7. Select Create project
+  8. Create a cube
+  9. Upload the files to GitHub
