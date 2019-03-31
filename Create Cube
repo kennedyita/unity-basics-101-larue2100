@@ -1,0 +1,12 @@
+Creating a cube in your Unity project is just like creating any other object in Unity. 
+Placing a cube in front of the user is easy because Unity's coordinate system is mapped to the real world - 
+where one meter in Unity is approximately one meter in the real world.
+Instructions
+  In the top left corner of the Hierarchy panel, select the Create dropdown and choose 3D Object > Cube.
+  Select the newly created Cube in the Hierarchy panel
+  In the Inspector find the Transform component and change Position to (X: 0, Y: 0, Z: 2). 
+      This positions the cube 2 meters in front of the user's starting position.
+  In the Transform component, change Rotation to (X: 45, Y: 45, Z: 45) and change Scale to (X: 0.25, Y: 0.25, Z: 0.25). 
+      This scales the cube to 0.25 meters.
+  To save the scene changes, select File > Save Scene and push or upload files to the repo. 
+  (https://www.youtube.com/watch?time_continue=8&v=qKcK1Yuj-HQ).
