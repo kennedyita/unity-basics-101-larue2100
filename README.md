@@ -1,5 +1,5 @@
 # Unity-Basics-101
-Unity Basics from (https://docs.microsoft.com/en-us/windows/mixed-reality/holograms-100)
+
 
 To build an app with Unity, you first need to create a project. This project is organized into a few folders, the most important of which is your Assets folder. This is the folder that holds all assets you import from digital content creation tools such as Maya, Max Cinema 4D or Photoshop, all code you create with Visual Studio or your favorite code editor, and any number of content files that Unity creates as you compose scenes, animations and other Unity asset types in the editor.
 
@@ -17,4 +17,4 @@ To build an app with Unity, you first need to create a project. This project is 
   Add a material
   Add other items to the scene
   Show the TA or Teacher your work 
-  Save your work
+  
